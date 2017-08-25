@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 main(){
-int r, d, c, a;
+float r, d, c, a;
 cout<<"Radius=";
 cin>>r;
 d=2*r;
