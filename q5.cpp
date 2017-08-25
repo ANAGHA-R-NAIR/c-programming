@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 main(){
-int l, b, a;
+float l, b, a;
 cout<<"Length=";
 cin>>l;
 cout<<"Breadth=";
