@@ -7,13 +7,13 @@ cin>>a;
 cout<<"Enter b=";
 cin>>b;
 c=a+b;
-cout<<"Addition="<<c;
+cout<<"Addition="<<c<<endl;
 d=a-b;
-cout<<"Substraction="<<d;
+cout<<"Substraction="<<d<<endl;
 e=a*b;
-cout<<"Multiply="<<e;
+cout<<"Multiply="<<e<<endl;
 f=a/b;
-cout<<"Division="<<f;
+cout<<"Division="<<f<<endl;
 g=a%b;
 cout<<"Remainder="<<g;
 }
